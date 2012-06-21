@@ -1,0 +1,402 @@
+Arts & Entertainment,0100000
+Aquarium,0100100
+Arcade,0100200
+Art Gallery,0100300
+Bowling Alley,0100400
+Casino,0100500
+Comedy Club,0100600
+General Entertainment,0100700
+Historic Site,0100800
+Movie Theater,0100900
+Indie Movie Theater,0100901
+Multiplex,0100902
+Museum,0101000
+Art Museum,0101001
+History Museum,0101002
+Planetarium,0101003
+Science Museum,0101004
+Music Venue,0101100
+Concert Hall,0101101
+Jazz Club,0101102
+Piano Bar,0101103
+Rock Club,0101104
+Performing Arts Venue,0101200
+Concert Hall,0101201
+Dance Studio,0101202
+Indie Theater,0101203
+Opera House,0101204
+Theater,0101205
+Pool Hall,0101300
+Racetrack,0101400
+Stadium,0101500
+Baseball Stadium,0101501
+Basketball Stadium,0101502
+Cricket Ground,0101503
+Football Stadium,0101504
+Hockey Arena,0101505
+Soccer Stadium,0101506
+Tennis,0101507
+Track Stadium,0101508
+Strip Club,0101600
+Theme Park,0101700
+Water Park,0101800
+Zoo,0101900
+College & University,0200000
+College Academic Building,0200100
+College Arts Building,0200101
+College Communications Building,0200102
+College Engineering Building,0200103
+College History Building,0200104
+College Math Building,0200105
+College Science Building,0200106
+College Technology Building,0200107
+College Administrative Building,0200200
+College Auditorium,0200300
+College Bookstore,0200400
+College Cafeteria,0200500
+College Classroom,0200600
+College Gym,0200700
+College Lab,0200800
+College Library,0200900
+College Quad,0201000
+College Rec Center,0201100
+College Residence Hall,0201200
+College Stadium,0201300
+College Baseball Diamond,0201301
+College Basketball Court,0201302
+College Cricket Pitch,0201303
+College Football Field,0201304
+College Hockey Rink,0201305
+College Soccer Field,0201306
+College Tennis Court,0201307
+College Track,0201308
+College Theater,0201400
+Community College,0201500
+Fraternity House,0201600
+General College & University,0201700
+Law School,0201800
+Medical School,0201900
+Sorority House,0202000
+Student Center,0202100
+Trade School,0202200
+University,0202300
+Food,0300000
+African Restaurant,0300100
+American Restaurant,0300200
+Arepa Restaurant,0300300
+Argentinian Restaurant,0300400
+Asian Restaurant,0300500
+Australian Restaurant,0300600
+BBQ Joint,0300700
+Bagel Shop,0300800
+Bakery,0300900
+Brazilian Restaurant,0301000
+Breakfast Spot,0301100
+Brewery,0301200
+Burger Joint,0301300
+Burrito Place,0301400
+Café,0301500
+Cajun/Creole Restaurant,0301600
+Caribbean Restaurant,0301700
+Chinese Restaurant,0301800
+Coffee Shop,0301900
+Cuban Restaurant,0302000
+Cupcake Shop,0302100
+Deli/Bodega,0302200
+Dessert Shop,0302300
+Dim Sum Restaurant,0302400
+Diner,0302500
+Distillery,0302600
+Donut Shop,0302700
+Dumpling Restaurant,0302800
+Eastern European Restaurant,0302900
+Ethiopian Restaurant,0303000
+Falafel Restaurant,0303100
+Fast Food Restaurant,0303200
+Filipino Restaurant,0303300
+Fish & Chips Shop,0303400
+Food Court,0303500
+Food Truck,0303600
+French Restaurant,0303700
+Fried Chicken Joint,0303800
+Gastropub,0303900
+German Restaurant,0304000
+Gluten-free Restaurant,0304100
+Greek Restaurant,0304200
+Hot Dog Joint,0304300
+Ice Cream Shop,0304400
+Indian Restaurant,0304500
+Indonesian Restaurant,0304600
+Italian Restaurant,0304700
+Japanese Restaurant,0304800
+Juice Bar,0304900
+Korean Restaurant,0305000
+Latin American Restaurant,0305100
+Mac & Cheese Joint,0305200
+Malaysian Restaurant,0305300
+Mediterranean Restaurant,0305400
+Mexican Restaurant,0305500
+Middle Eastern Restaurant,0305600
+Molecular Gastronomy Restaurant,0305700
+Mongolian Restaurant,0305800
+Moroccan Restaurant,0305900
+New American Restaurant,0306000
+Peruvian Restaurant,0306100
+Pizza Place,0306200
+Portuguese Restaurant,0306300
+Ramen /  Noodle House,0306400
+Restaurant,0306500
+Salad Place,0306600
+Sandwich Place,0306700
+Scandinavian Restaurant,0306800
+Seafood Restaurant,0306900
+Snack Place,0307000
+Soup Place,0307100
+South American Restaurant,0307200
+Southern or Soul Food Restaurant,0307300
+Spanish Restaurant,0307400
+Paella Restaurant,0307401
+Steakhouse,0307500
+Sushi Restaurant,0307600
+Swiss Restaurant,0307700
+Taco Place,0307800
+Tapas Restaurant,0307900
+Tea Room,0308000
+Thai Restaurant,0308100
+Turkish Restaurant,0308200
+Vegetarian or Vegan Restaurant,0308300
+Vietnamese Restaurant,0308400
+Winery,0308500
+Wings Joint,0308600
+Great Outdoors,0400000
+Baseball Field,0400100
+Basketball Court,0400200
+Beach,0400300
+Surf Spot,0400301
+Bridge,0400400
+Campground,0400500
+Cemetery,0400600
+Dog Run,0400700
+Farm,0400800
+Field,0400900
+Garden Center,0401000
+Garden,0401100
+Golf Course,0401200
+Harbor or Marina,0401300
+Hiking Trail,0401400
+Hot Spring,0401500
+Lake,0401600
+Lighthouse,0401700
+Mountain,0401800
+Neighborhood,0401900
+Other Great Outdoors,0402000
+Park,0402100
+Playground,0402200
+Plaza,0402300
+Pool,0402400
+River,0402500
+Scenic Lookout,0402600
+Sculpture Garden,0402700
+Ski Area,0402800
+Apres Ski Bar,0402801
+Ski Chairlift,0402802
+Ski Chalet,0402803
+Ski Lodge,0402804
+Ski Trail,0402805
+Sport,0402900
+Hockey Field,0402901
+Skate Park,0402902
+Skating Rink,0402903
+Soccer Field,0402904
+Tennis Court,0402905
+Volleyball Court,0402906
+Stable,0403000
+Vineyard,0403100
+Well,0403200
+Nightlife Spot,0500000
+Bar,0500100
+Beer Garden,0500200
+Brewery,0500300
+Cocktail Bar,0500400
+Dive Bar,0500500
+Gay Bar,0500600
+Hookah Bar,0500700
+Hotel Bar,0500800
+Karaoke Bar,0500900
+Lounge,0501000
+Nightclub,0501100
+Other Nightlife,0501200
+Pub,0501300
+Sake Bar,0501400
+Speakeasy,0501500
+Sports Bar,0501600
+Strip Club,0501700
+Whisky Bar,0501800
+Wine Bar,0501900
+Professional & Other Places,0600000
+Animal Shelter,0600100
+Auditorium,0600200
+Building,0600300
+Convention Center,0600400
+Meeting Room,0600401
+Event Space,0600500
+Factory,0600600
+Fair,0600700
+Funeral Home,0600800
+Government Building,0600900
+Capitol Building,0600901
+City Hall,0600902
+Courthouse,0600903
+Fire Station,0600904
+Monument or Landmark,0600905
+Police Station,0600906
+Library,0601000
+Medical Center,0601100
+Dentist's Office,0601101
+Doctor's Office,0601102
+Emergency Room,0601103
+Hospital,0601104
+Laboratory,0601105
+Optical Shop,0601106
+Veterinarian,0601107
+Military Base,0601200
+Office,0601300
+Cafeteria,0601301
+Conference Room,0601302
+Coworking Space,0601303
+Tech Startup,0601304
+Parking,0601400
+Post Office,0601500
+Religious Center,0601600
+Church,0601601
+Mosque,0601602
+Shrine,0601603
+Synagogue,0601604
+Temple,0601605
+School,0601700
+Elementary School,0601701
+High School,0601702
+Middle School,0601703
+Music School,0601704
+Nursery School,0601705
+Voting Booth,0601800
+Residence,0700000
+Home (private),0700100
+Housing Development,0700200
+Residential Building (Apartment/Condo),0700300
+Shop & Service,0800000
+Antique Shop,0800100
+Arts & Crafts Store,0800200
+Automotive Shop,0800300
+Bank,0800400
+Bike Shop,0800500
+Board Shop,0800600
+Bookstore,0800700
+Bridal Shop,0800800
+Camera Store,0800900
+Candy Store,0801000
+Car Dealership,0801100
+Car Wash,0801200
+Clothing Store,0801300
+Accessories Store,0801301
+Boutique,0801302
+Kids Store,0801303
+Lingerie Store,0801304
+Men's Store,0801305
+Shoe Store,0801306
+Women's Store,0801307
+Convenience Store,0801400
+Cosmetics Shop,0801500
+Daycare,0801600
+Department Store,0801700
+Design Studio,0801800
+Drugstore or Pharmacy,0801900
+Electronics Store,0802000
+Flea Market,0802100
+Flower Shop,0802200
+Food & Drink Shop,0802300
+Butcher,0802301
+Cheese Shop,0802302
+Deli or Bodega,0802303
+Farmers Market,0802304
+Fish Market,0802305
+Food Court,0802306
+Gourmet Shop,0802307
+Grocery Store,0802308
+Liquor Store,0802309
+Wine Shop,0802310
+Furniture or Home Store,0802400
+Gaming Cafe,0802500
+Gas Station or Garage,0802600
+Gift Shop,0802700
+Gym or Fitness Center,0802800
+Gym Pool,0802801
+Gym,0802802
+Martial Arts Dojo,0802803
+Track,0802804
+Yoga Studio,0802805
+Hardware Store,0802900
+Hobby Shop,0803000
+Internet Cafe,0803100
+Jewelry Store,0803200
+Laundry Service,0803300
+Mall,0803400
+Miscellaneous Shop,0803500
+Mobile Phone Shop,0803600
+Music Store,0803700
+Nail Salon,0803800
+Newsstand,0803900
+Paper or Office Supplies Store,0804000
+Pet Store,0804100
+Photography Lab,0804200
+Record Shop,0804300
+Recycling Facility,0804400
+Salon or Barbershop,0804500
+Smoke Shop,0804600
+Spa or Massage,0804700
+Sporting Goods Shop,0804800
+Storage Facility,0804900
+Tanning Salon,0805000
+Tattoo Parlor,0805100
+Thrift or Vintage Store,0805200
+Toy or Game Store,0805300
+Travel Agency,0805400
+Video Game Store,0805500
+Video Store,0805600
+Travel & Transport,0900000
+Airport,0900100
+Airport Food Court,0900101
+Airport Gate,0900102
+Airport Lounge,0900103
+Airport Terminal,0900104
+Airport Tram,0900105
+Plane,0900106
+Bike Rental or Bike Share,0900200
+Bus Station,0900300
+Bus Line,0900301
+Embassy/Consulate,0900400
+Ferry,0900500
+Boat or Ferry,0900501
+Pier,0900502
+General Travel,0900600
+Hotel,0900700
+Bed & Breakfast,0900701
+Boarding House,0900702
+Hostel,0900703
+Hotel Bar,0900704
+Hotel Pool,0900705
+Motel,0900706
+Resort,0900707
+Roof Deck,0900708
+Light Rail,0900800
+Moving Target,0900900
+Rental Car Location,0901000
+Rest Area,0901100
+Road,0901200
+Subway,0901300
+Taxi,0901400
+Tourist Information Center,0901500
+Train Station,0901600
+Platform,0901601
+Train,0901602
+Travel Lounge,0901700
