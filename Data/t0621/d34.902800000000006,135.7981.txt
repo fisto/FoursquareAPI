@@ -1,1 +1,0 @@
-{"meta":{"code":200},"response":{"venues":[{"id":"4fa4919de4b094b945b2783b","name":"大忠","contact":{},"location":{"lat":34.9008603,"lng":135.7982113,"country":"Japan"},"categories":[],"verified":false,"stats":{"checkinsCount":0,"usersCount":0,"tipCount":0},"likes":{"count":0,"groups":[]},"specials":{"count":0,"items":[]},"hereNow":{"count":0,"groups":[]}}]}}
